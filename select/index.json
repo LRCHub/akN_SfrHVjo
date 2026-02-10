@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "すべりだい",
+  "base_artist": "椎名林檎",
+  "createdAt": "2026-02-10T14:06:19.109823Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "すべりだい",
+      "artist": "三浦大知",
+      "has_synced": false,
+      "path": "select/01_すべりだい_三浦大知.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Slide [すべりだい]",
+      "artist": "Ringo Sheena",
+      "has_synced": false,
+      "path": "select/02_Slide_[すべりだい]_Ringo_Sheena.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "すべりだい",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/03_すべりだい_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "すべりだい",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/04_すべりだい_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "すべりだい",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/05_すべりだい_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "すべりだい",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/06_すべりだい_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "すべりだい",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/07_すべりだい_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "すべりだい",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/08_すべりだい_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Suberidai (すべりだい)",
+      "artist": "Shiina Ringo (椎名 林檎)",
+      "has_synced": true,
+      "path": "select/09_Suberidai_(すべりだい)_Shiina_Ringo_(椎名_林檎).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "すべりだい - Slide",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/10_すべりだい_-_Slide_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "すべりだい - Suberidai -Slide-",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/11_すべりだい_-_Suberidai_-Slide-_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "すべりだい",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_01_すべりだい_椎名_林檎.txt"
+    }
+  ]
+}
